@@ -42,8 +42,7 @@ with your mouse and the trained network recognizes it live.
 Pretrained weights are included in the repo, no training needed.
 
 ```bash
-git clone https://github.com/RealBigDick/CNN.git
-cd CNN
+git clone https://github.com/vankovskikarl-coder/CNN.gitcd CNN
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
